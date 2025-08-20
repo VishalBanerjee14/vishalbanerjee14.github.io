@@ -1,0 +1,111 @@
+VISHAL BANERJEE 
++917735382409 ⋄ Rourkela ⋄ Odisha ⋄ India | Gmail | Github | Leetcode | Linkedin 
+
+EDUCATION: 
+
+Kalinga Institute of Industrial Technology, Bhubaneswar, India                                                                                  2021-2025 
+Bachelor of Technology in Computer Science and Engineering | CGPA: 7.98 
+Courses:  Object  Oriented  Programming, Operating Systems, Data Structures and Algorithm, Database Management System, 
+Computer Networks, Computational Intelligence, Artificial Intelligence, Cloud Computing, Software Engineering 
+
+Dr. A.N.K DAV Public School, Rourkela, India 
+CBSE (Class XII) 
+CBSE (Class X)  
+
+| Percentage: 94%                                                                                                                      July, 2021 
+| Percentage: 91.8%                                                                                                                   May, 2019 
+
+TECHNICAL SKILLS: 
+
+●  Languages/Libraries: C, C++, Python, SQL, HTML, CSS, Numpy, Pandas, Matplotlib, Scikit-Learn, Keras, Tensorflow 
+●  Skills: Machine Learning, Data Structures and Algorithms, Object-Oriented Programming, Database Management System 
+●  Software and Tools: Databricks, AWS S3, Azure Devops, Jupyter Notebook, Google Collab, Visual Studio Code, Github 
+
+EXPERIENCE: 
+
+Data Engineer Intern, MathCo                                                                                                                             Jan - June 2025 
+Co-Pay Data Integration Pipeline 
+● 
+
+Instrumented  an  automated  AWS  S3–Databricks–Azure  DevOps  pipeline  to  process  and  transform  5  vendor datasets 
+from raw files into a structured consumption layer for analytics. 
+
+●  Performed data cleaning and standardization on more than 20 fields, ensuring schema consistency across vendors. 
+●  Conducted Paid Reversal Tagging for 100% transaction accuracy and precise 13 KPI calculations. 
+●  Developed  Copay  Bundle  and  Voucher  Bundle  datasets,  reducing  Power  BI  dashboard  refresh  time  by  25%  and 
+
+improving stakeholder reporting efficiency. 
+
+Data Science Intern, Celebal Technologies                                                                                                    June - August 2024 
+Customer Churn Prediction | Link 
+●  Established  churn  prediction  using  Linear  Regression,  SVM,  Random  Forest,  and  KNN,  with  Linear  Regression 
+
+achieving 81% accuracy. 
+
+●  Analyzed churn patterns across demographics (gender, senior citizens, dependents, partners), finding senior citizens 20% 
+
+more likely to churn, using Matplotlib. 
+Improved prediction precision by 15% through model fine-tuning and performance metrics analysis. 
+
+● 
+●  Strengthened feature engineering with Python and Scikit-learn, leading to better model accuracy. 
+
+PROJECTS: 
+
+1) Smart Chess AI | Link 
+●  Developed  CNN  based  chess  AI  system  achieving  95.29%  test  accuracy  across  12,173  training  samples  using 
+
+TensorFlow/Keras.  
+
+●  Engineered 8x8x13 chess board representation with 95.38% validation accuracy for piece prediction and move generation.  
+●  Built interactive chess game interface integrating deep learning models with chess engine logic, achieving 99.2% model 
+
+convergence.  
+Implemented an end-to-end ML workflow from PGN parsing to deployment, boosting accuracy by 0.6%. 
+
+● 
+
+2) Emotion Aware Difficulty Tuner | Link 
+●  Built  AI  emotion-detection game in Python & TensorFlow achieving 85% accuracy across 7 emotions on 28000 facial 
+
+images. 
+
+●  Engineered real-time 30 FPS computer vision pipeline with threaded architecture for seamless gameplay integration. 
+●  Developed CNN with 2 convolutional layers, reaching 92% training and 88% validation accuracy on FER2013 dataset. 
+●  Designed Pygame interface with <100ms latency ensuring smooth and fully responsive user experience.  
+
+3) Intelligent Disease Detection of Cashew Crops | Link 
+●  Spearheaded the development of two machine learning models, SVM and Random Forest and a Convolutional Neural 
+
+● 
+
+Network (CNN) model utilizing leaf images to detect Cashew plant illnesses. 
+Instrumented a cutting-edge machine learning model utilizing TensorFlow and Python to accurately detect and diagnose 
+plant diseases and resulting in a 40% increase in early disease identification and treatment.  
+
+●  Achieved a remarkable 95% classification accuracy, surpassing traditional methods, demonstrating practical viability. 
+●  The engineered model leads to a 32% increase in accurate diagnoses and results in a reduction in diagnosis time. 
+
+CERTIFICATIONS: 
+
+IBM: Exploratory Data Analysis for Machine Learning | Link 
+
+● 
+●  Salesforce: Salesforce Developer Virtual Internship | Link 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
